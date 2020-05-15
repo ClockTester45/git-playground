@@ -5,7 +5,7 @@ Lorem ipsum.....
 - Das
 - ist
 - eine
-- Bullrz-List
+- Bullet-List
 
-##Zweites Kapitel
+## Zweites Kapitel
 usw. usw.
